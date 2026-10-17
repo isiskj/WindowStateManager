@@ -16,6 +16,7 @@
     <Description>WindowStateManager is a lightweight WinUI 3 utility that automatically saves, restores, and optionally locks the window’s size and position.
 It supports DPI‑aware scaling, persistent state storage via ApplicationData.Current.LocalSettings, and simple integration—just call Attach() in your MainWindow constructor.</Description>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/isiskj/WindowStateManager</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <Content Remove="Icon\WindowStateManager.png" />
